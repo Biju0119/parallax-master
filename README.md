@@ -1,1 +1,1 @@
-# parallax-master
+# parallax
